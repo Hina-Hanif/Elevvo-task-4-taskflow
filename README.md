@@ -103,5 +103,3 @@ This project was built as part of my **Frontend Development Internship Task at @
 Developed by **Hina Hanif** as part of my **Frontend Development Internship** 💼
 
 ---
-
-Do you want me to also make this README **section-by-section aligned** (like with emojis as headings: ⭐ Features, 💬 Reviews, 💲 Pricing, 📩 Contact) to match the exact structure of your site?
